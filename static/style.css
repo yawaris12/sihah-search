@@ -1,0 +1,32 @@
+body {
+    font-family: Arial;
+    body {
+    background: red !important;
+}
+    margin: 0;
+    padding: 40px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input {
+    width: 70%;
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.result {
+    margin-top: 15px;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}

@@ -1,0 +1,9 @@
+@app.get("/", response_class=HTMLResponse)
+def home():
+    return """
+    <html>
+    <body style="background:red;color:white;font-size:40px;">
+        THIS IS THE NEW HOME PAGE
+    </body>
+    </html>
+    """
