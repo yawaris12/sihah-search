@@ -1,0 +1,34 @@
+
+---
+
+# 🧾 4. PROJECT_STATUS.txt (RESUME FILE)
+
+```text
+PROJECT: Sihah Hadith Search Engine
+
+STATUS:
+✔ Backend completed (FastAPI)
+✔ FAISS index created
+✔ SentenceTransformer model integrated
+✔ Frontend basic UI done
+
+NOT DONE:
+- Production deployment
+- Domain connection
+- Scaling (Quran + Tafseer modules)
+- Monetization setup
+
+NEXT STEP WHEN RESUMING:
+1. Deploy on VPS (recommended: Hetzner CX23)
+2. Run backend 24/7 using systemd
+3. Connect domain (Hostinger/Namecheap)
+4. Add Quran + Tafseer search modules
+
+TECH STACK:
+- FastAPI
+- FAISS
+- Sentence Transformers
+- Python
+
+LAST UPDATED:
+June 2026
